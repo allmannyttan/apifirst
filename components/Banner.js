@@ -40,13 +40,13 @@ const Banner = () => {
                 API First <br /> Awareness <br /> Day
               </h3>
               <p>
-                Det går för långsamt med digitaliseringen i Sverige. Vi vill öka hastigheten och allt börjar med ett API.
+                Det går för långsamt med digitaliseringen i Sverige. Vi vill öka hastigheten och vi tror att allt börjar med ett API.
               </p>
               <form
                 className="banner-one__mc-form mc-form"
                 data-url="MAILCHIMP__POPUP__FORM__URL"
               >
-                <input type="text" name="email" placeholder="Den email" />
+                <input type="text" name="email" placeholder="Din email" />
                 <button type="submit" className="thm-btn banner-one__mc-btn">
                   <span>Anslut dig</span>
                 </button>
