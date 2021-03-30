@@ -7,7 +7,7 @@ import CtaMoc1 from "../assets/images/resources/cta-1-moc-1.jpg";
 
 const CTAOne = () => {
   return (
-    <section className="cta-one">
+    <section className="cta-one" id="faq">
       <img src={CtaShape1} className="cta-one__bg-shape-1" alt="" />
       <img src={CtaShape2} className="cta-one__bg-shape-2" alt="" />
       <div className="container">
@@ -19,12 +19,12 @@ const CTAOne = () => {
             <div className="cta-one__content">
               <BlockTitle
                 textAlign="left"
-                paraText="10 viktiga frågor om API:er"
+                paraText="10 viktiga frågor om API"
                 titleText={`Vi vill öka förståelsen av\nvad ett API är`}
               />
               <div className="cta-one__text">
                 <p>
-                  10 viktiga frågor om API:er
+                  Det finns många missuppfattningar om vad ett API är och hur det fungerar. Vi hjälper dig att räta ut frågetecknen.
                 </p>
               </div>
               <ul className="list-unstyled cta-one__list">

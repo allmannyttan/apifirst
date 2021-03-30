@@ -23,19 +23,19 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Features
+          Varför API?
         </ScrollLink>
       </li>
       <li>
         <ScrollLink
           activeClass="current"
-          to="pricing"
+          to="faq"
           spy={true}
           smooth={true}
           offset={-70}
           duration={500}
         >
-          Pricing
+          10 frågor om API
         </ScrollLink>
       </li>
       <li>
