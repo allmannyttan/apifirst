@@ -36,7 +36,7 @@ const HeaderHome = (props) => {
       <div className="container-fluid">
         <div className="site-header-one__logo">
           <a href="/">
-            <img src={LogoImage} width="129" alt="" />
+            <img src={LogoImage} width="180" alt="" />
           </a>
           <span className="side-menu__toggler" onClick={handleMenuClick}>
             <i className="fa fa-bars"></i>
