@@ -3,7 +3,7 @@ import BlockTitle from "./BlockTitle";
 
 import CtaShape1 from "../assets/images/shapes/cta-1-shape-1.png";
 import CtaShape2 from "../assets/images/shapes/cta-1-shape-2.png";
-import CtaMoc1 from "../assets/images/resources/cta-1-moc-1.png";
+import CtaMoc1 from "../assets/images/resources/cta-1-moc-1.jpg";
 
 const CTAOne = () => {
   return (
