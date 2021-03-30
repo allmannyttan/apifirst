@@ -19,7 +19,7 @@ import MenuContextProvider from "../context/MenuContext";
 
 const BlogPage = () => (
   <MenuContextProvider>
-    <Layout pageTitle="Apiton | Blog Page">
+    <Layout pageTitle="API 1ST">
       <Preloader />
       <Header btnClass="main-nav__btn-two" />
       <MobileMenu />
