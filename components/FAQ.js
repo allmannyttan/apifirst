@@ -16,14 +16,14 @@ const FAQ = (props) => {
         />
         <div className="accrodion-grp faq-accrodion">
           <AccordionItem
-            title="Pre and post launch mobile app marketing pitfalls to avoid"
+            title="1.	Måste jag intressera mig för API?"
             content="There are many variations of passages of available but
                     majority have alteration in some by inject humour or random
                     words. Lorem ipsum dolor sit amet."
             status={false}
           />
           <AccordionItem
-            title="Pre and post launch mobile app marketing pitfalls to avoid"
+            title="2.	Vad är ett API?"
             content="There are many variations of passages of available but
                     majority have alteration in some by inject humour or random
                     words. Lorem ipsum dolor sit amet."
