@@ -78,18 +78,14 @@ const Testimonials = (props) => {
               <BlockTitle
                 textAlign="left"
                 paraText="Our Testimonials"
-                titleText={`What Our Customers Are \n Talking About`}
+                titleText={`Varför ska man börja med ett API?`}
               />
               <div className="testimonials-one__carousel">
                 <Swiper {...paramsTwo}>
                   <div className="swiper-slide">
                     <div className="testimonials-one__single">
                       <p className="testimonials-one__text">
-                        This is due to their excellent service, competitive
-                        pricing and customer support. It’s throughly refresing
-                        to get such a personal touch. Duis aute irure dolor in
-                        repre henderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur.
+                        API First är en process som handlar om att först göra ett API och sedan bygga appar och gränssnitt och samverka med omvärlden. Fördelen är att System hållbart utveckla. 
                       </p>
 
                       <h3 className="testimonials-one__title">Joe Kolmer</h3>
