@@ -28,7 +28,7 @@ const FunFact = () => {
                   <CountUp end={counter.startCounter ? 4789 : 0} />
                 </VisibilitySensor>
               </h3>
-              <p>Downloads</p>
+              <p>Överflödiga inlogg</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
@@ -39,10 +39,10 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 6400 : 0} />
+                  <CountUp end={counter.startCounter ? 2400 : 0} />
                 </VisibilitySensor>
               </h3>
-              <p>Likes</p>
+              <p>Bifogade filer i onödan</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
@@ -53,10 +53,10 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 900 : 0} />
+                  <CountUp end={counter.startCounter ? 511 : 0} />
                 </VisibilitySensor>
               </h3>
-              <p>5 Star Rating</p>
+              <p>Onödiga telefonsamtal</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
@@ -67,10 +67,10 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 266 : 0} />
+                  <CountUp end={counter.startCounter ? 200000 : 0} />
                 </VisibilitySensor>
               </h3>
-              <p>Awards</p>
+              <p>Orealiserade drömmar</p>
             </div>
           </div>
         </div>

@@ -37,10 +37,11 @@ const Banner = () => {
               
               <div className="mc-form__response"></div>
               <h3>
-                API First <br /> Awareness <br /> Day
+                Vi vill införa<br /> anti-API <br /> avgift
               </h3>
               <p>
-                Det går för långsamt med digitaliseringen i Sverige. Vi vill öka hastigheten och vi tror att allt börjar med ett API.
+                Det är sjukt dyrt att inte bygga API först. Vi vill införa avgifter för alla organisationer som inte har ett öppet API. 
+                Samhället kan bli så mycket bättre och utvecklas av fler. Skriv under vårt upprop nu.
               </p>
               <form
                 className="banner-one__mc-form mc-form"
