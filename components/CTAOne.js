@@ -7,7 +7,7 @@ import CtaMoc1 from "../assets/images/resources/cta-1-moc-1.jpg";
 
 const CTAOne = () => {
   return (
-    <section className="cta-one" id="faq">
+    <section className="cta-one">
       <img src={CtaShape1} className="cta-one__bg-shape-1" alt="" />
       <img src={CtaShape2} className="cta-one__bg-shape-2" alt="" />
       <div className="container">
