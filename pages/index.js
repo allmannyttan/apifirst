@@ -32,7 +32,6 @@ const HomePage = () => {
         />
         <Banner />
         <Services />
-        <CTAOne />
         <FunFact />
         <CTATwo />
         <Pricing />
