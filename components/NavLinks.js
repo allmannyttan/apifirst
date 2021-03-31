@@ -50,6 +50,18 @@ const NavLinks = () => {
           10 frågor om API
         </ScrollLink>
       </li>
+      <li>
+        <ScrollLink
+          activeClass="current"
+          to="footer"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+        >
+          Vilka är vi?
+        </ScrollLink>
+      </li>
       {/* <li>
         <ScrollLink
           activeClass="current"
