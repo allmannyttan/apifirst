@@ -21,9 +21,6 @@ const CTATwo = () => {
                 Ett API är en dokumenterad och säker koppling till ett system. Ett öppet API erbjuder din organisations funktioner, tjänster och data på ett sätt som gör att det kan kopplas samman med andra system, plattformar och organisationer.
                 </p>
               </div>
-              <a href="#" className="thm-btn cta-two__btn">
-                <span>Discover More</span>
-              </a>
             </div>
           </div>
           <div className="col-lg-6 ">
