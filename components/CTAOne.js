@@ -19,58 +19,30 @@ const CTAOne = () => {
               <BlockTitle
                 textAlign="left"
                 paraText="Vår vision"
-                titleText={`Vi vill att alla organisationer ska ha ett API`}
+                titleText={`Vi vill att alla organisationer i Sverige ska ha ett öppet API`}
               />
               <div className="cta-one__text">
                 <p>
-                  Om alla organisationer hade ett API hade vi kunnat se ett samhälle växa fram som vi bygger tillsammans och som blir mer värdeskapande för medborgare och företag och gör Sverige mer konkurrenskraftigt.
+                Vi tycker att digitaliseringen har varit för långsam. Att enskilda organisationer ska lösa alltför stort problem med dyra system.
+
+                Släpp loss din information och dina tjänster och göra dessa tillgängliga via API 
+                kan du boosta digitaliseringen.
                 </p>
               </div>
               <ul className="list-unstyled cta-one__list">
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Måste jag intressera mig för API?
+                  Lita på dina konkurrenter
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Vad är ett API?
+                  Hacka din affärsidé
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Vad kan jag göra med ett API?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Går inte näringslivet i stöpet med ett API?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Vad kan samhället göra med ett API?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Är det inte jättefarligt med ett API som en öppen dörr till en massa känslig data (man har ju hört om GDPR)?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Finns det olika API:er?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Finns det bra API:er och dåliga API:er?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Vilken teknik behöver man för ett API och vilken teknik är bäst?
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Om jag ska köpa ett API, eller jag menar ett system eller nej ett API först, hur kravställer jag ett API?
+                  Få superkrafter
                 </li>
               </ul>
-              <a href="#" className="thm-btn cta-one__btn">
-                <span>Läs mer här</span>
-              </a>
             </div>
           </div>
         </div>

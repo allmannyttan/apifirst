@@ -11,8 +11,8 @@ const FAQ = (props) => {
       <Container>
         <BlockTitle
           textAlign="center"
-          paraText="10 viktiga frågor om API"
-          titleText={`Det finns många missuppfattningar om vad ett API är och hur det fungerar. Vi hjälper dig att räta ut frågetecknen.`}
+          paraText="10 frågor om API"
+          titleText={`API?!`}
         />
         <div className="accrodion-grp faq-accrodion">
           <AccordionItem

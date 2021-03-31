@@ -19,6 +19,7 @@ import FAQ from "../components/FAQ";
 // import Clients from "../components/Clients";
 // import Testimonials from "../components/Testimonials";
 import MenuContextProvider from "../context/MenuContext";
+import Testimonials from "../components/Testimonials";
 
 const HomePage = () => {
   return (
@@ -36,6 +37,7 @@ const HomePage = () => {
         <FunFact />
         <CTATwo /> 
         <Pricing />
+        <Testimonials/>
         {/* <Testimonials />
         <Clients />
         <Team />

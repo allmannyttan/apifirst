@@ -77,44 +77,46 @@ const Testimonials = (props) => {
             <div className="my-auto">
               <BlockTitle
                 textAlign="left"
-                paraText="Our Testimonials"
-                titleText={`Varför ska man börja med ett API?`}
+                paraText="När alla har API"
+                titleText={`Vad kan jag göra med ett API?`}
               />
               <div className="testimonials-one__carousel">
                 <Swiper {...paramsTwo}>
                   <div className="swiper-slide">
                     <div className="testimonials-one__single">
                       <p className="testimonials-one__text">
-                        API First är en process som handlar om att först göra ett API och sedan bygga appar och gränssnitt och samverka med omvärlden. Fördelen är att System hållbart utveckla. 
+<i>Kartong är full i soprummet igen, kan du fråga om en extra sophämtning?</i>
+<br/>
+En extra sophämtning är redan begärd i din fastighet, den är planerad till imorgon förmiddag.
+Tack!
                       </p>
 
-                      <h3 className="testimonials-one__title">Joe Kolmer</h3>
+                      <h3 className="testimonials-one__title">Siri</h3>
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="testimonials-one__single">
                       <p className="testimonials-one__text">
-                        This is due to their excellent service, competitive
-                        pricing and customer support. It’s throughly refresing
-                        to get such a personal touch. Duis aute irure dolor in
-                        repre henderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur.
+<i>Kan du sjukanmäla Frank till skolan?</i>
+
+Jag gör en sjukanmälan på Frank på Skola24. 
+Vill du att jag också lägger in en anmälan om VABB till Försäkringskassan?
+
                       </p>
 
-                      <h3 className="testimonials-one__title">Darrin Martos</h3>
+                      <h3 className="testimonials-one__title">Google Home</h3>
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="testimonials-one__single">
                       <p className="testimonials-one__text">
-                        This is due to their excellent service, competitive
-                        pricing and customer support. It’s throughly refresing
-                        to get such a personal touch. Duis aute irure dolor in
-                        repre henderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur.
+<i>Går det att låna Real Life av Brandon Taylor på stadsbiblioteket idag?</i><br/>
+Det finns inget exemplar av Real Life av Brandon Taylor inne på något bibliotek i Malmö idag. 
+Vill du att jag ska göra en reservation?<br/>
+<i>Ja!</i>
                       </p>
 
-                      <h3 className="testimonials-one__title">Tammy Daniely</h3>
+                      <h3 className="testimonials-one__title">Alexa</h3>
                     </div>
                   </div>
                 </Swiper>
