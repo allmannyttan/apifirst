@@ -27,7 +27,7 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Vad kan jag göra med ett API?"
-            content="När det finns API:er i bakgrunden så kan du räkna med att du slipper att logga in till höger och vänster för att lösa en uppgift, till exempel få all den information du behöver. Varje gång du använder en app som Facebook, kollar vädret eller en karta på din smartphone så nyttjas ett API för att skapa en helhet för dig som användare.<br> Om dina system har API:er kan du sätta ihop dem till en digital plattform. Om din digitala plattform har ett API kan du erbjuda dina tjänster digitalt. Med andras API:er kan du bygga ditt eget gränssnitt till andras tjänster, eller integrera dem med din plattform."
+            content="När det finns API:er i bakgrunden så kan du räkna med att du slipper att logga in till höger och vänster för att lösa en uppgift, till exempel få all den information du behöver. Varje gång du använder en app som Facebook, kollar vädret eller en karta på din smartphone så nyttjas ett API för att skapa en helhet för dig som användare. Om dina system har API:er kan du sätta ihop dem till en digital plattform. Om din digitala plattform har ett API kan du erbjuda dina tjänster digitalt. Med andras API:er kan du bygga ditt eget gränssnitt till andras tjänster, eller integrera dem med din plattform."
             status={false}
           />
           <AccordionItem
