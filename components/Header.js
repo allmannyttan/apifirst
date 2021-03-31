@@ -45,11 +45,11 @@ const HeaderHome = (props) => {
         <div className="main-nav__main-navigation">
           <NavLinks />
         </div>
-        <div className="main-nav__right">
+        {/* <div className="main-nav__right">
           <a href="#" className={`thm-btn ${props.btnClass}`}>
             <span>Download App</span>
           </a>
-        </div>
+        </div> */}
       </div>
     </header>
   );
