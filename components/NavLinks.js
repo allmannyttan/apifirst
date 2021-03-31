@@ -9,11 +9,11 @@ const NavLinks = () => {
   };
   return (
     <ul className="main-nav__navigation-box">
-      <li>
+      {/* <li>
         <Link href="/">
-          <a>Home</a>
+          <a>Top</a>
         </Link>
-      </li>
+      </li> */}
       <li>
         <ScrollLink
           activeClass="current"
@@ -29,6 +29,18 @@ const NavLinks = () => {
       <li>
         <ScrollLink
           activeClass="current"
+          to="pricing"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+        >
+          Pris
+        </ScrollLink>
+      </li>
+      <li>
+        <ScrollLink
+          activeClass="current"
           to="faq"
           spy={true}
           smooth={true}
@@ -38,7 +50,7 @@ const NavLinks = () => {
           10 frågor om API
         </ScrollLink>
       </li>
-      <li>
+      {/* <li>
         <ScrollLink
           activeClass="current"
           to="team"
@@ -49,8 +61,8 @@ const NavLinks = () => {
         >
           Team
         </ScrollLink>
-      </li>
-      <li>
+      </li> */}
+      {/* <li>
         <ScrollLink
           activeClass="current"
           to="screens"
@@ -61,8 +73,8 @@ const NavLinks = () => {
         >
           Screens
         </ScrollLink>
-      </li>
-      <li className="dropdown">
+      </li> */}
+      {/* <li className="dropdown">
         <Link href="/blog">
           <>
             <a>News</a>
@@ -81,7 +93,7 @@ const NavLinks = () => {
             </Link>
           </li>
         </ul>
-      </li>
+      </li> */}
     </ul>
   );
 };

@@ -29,8 +29,8 @@ const Pricing = (props) => {
                       <li>🚫 Användarfientlig</li>
                       <li>🚫 Dömt att misslyckas</li>
                     </ul>
-                    <a href="#" className="thm-btn pricing-one__btn">
-                      <span>Choose Plan</span>
+                    <a href="javascript: alert('😡 nej men snälla')" className="thm-btn pricing-one__btn">
+                      <span>Välj</span>
                     </a>
 
                     <span>Licenskostnader!</span>
@@ -51,8 +51,8 @@ const Pricing = (props) => {
                       <li>🚫 Tar tid och resurser</li>
                       <li>🚫 Teknisk skuld / legacy</li>
                     </ul>
-                    <a href="#" className="thm-btn pricing-one__btn">
-                      <span>Choose Plan</span>
+                    <a href="javascript: alert('🤷🏻‍♀️ ja det är väl bekvämt')" className="thm-btn pricing-one__btn">
+                      <span>Välj</span>
                     </a>
 
                     <span>Champagne på galor!</span>
@@ -73,8 +73,8 @@ const Pricing = (props) => {
                       <li>✅ Demokratisk</li>
                       <li>❔ Släpper kontroll</li>
                       </ul>
-                    <a href="javascript: alert('April april!')" className="thm-btn pricing-one__btn">
-                      <span>Choose Plan</span>
+                    <a href="javascript: alert('🦚 välkommen till framtiden!')" className="thm-btn pricing-one__btn">
+                      <span>Välj</span>
                     </a>
 
                     <span>Det är roligt!</span>
