@@ -5,7 +5,7 @@ SwiperCore.use([Pagination, Thumbs, Controller]);
 import Swiper from "react-id-swiper";
 import BlockTitle from "./BlockTitle";
 
-import TestiQoute from "../assets/images/shapes/testi-qoute-1-1.png";
+import TestiQoute from "../assets/images/resources/siri.png";
 
 import TestiImageOne from "../assets/images/resources/testi-1-1.jpg";
 import TestiImageTwo from "../assets/images/resources/testi-1-2.jpg";
