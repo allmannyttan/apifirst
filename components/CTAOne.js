@@ -1,5 +1,5 @@
 import React from "react";
-import BlockTitle from "./BlockTitle";
+import BlockTitle from "./BlockTitle";  
 
 import CtaShape1 from "../assets/images/shapes/cta-1-shape-1.png";
 import CtaShape2 from "../assets/images/shapes/cta-1-shape-2.png";
@@ -12,19 +12,18 @@ const CTAOne = () => {
       <img src={CtaShape2} className="cta-one__bg-shape-2" alt="" />
       <div className="container">
         <div className="cta-one__moc wow fadeInLeft" data-wow-duration="1500ms">
-          <img src={CtaMoc1} className="cta-one__moc-img" alt="" />
         </div>
         <div className="row justify-content-end">
           <div className="col-lg-6">
             <div className="cta-one__content">
               <BlockTitle
                 textAlign="left"
-                paraText="10 viktiga frågor om API"
-                titleText={`Vi vill öka förståelsen av\nvad ett API är`}
+                paraText="Vår vision"
+                titleText={`Vi vill att alla organisationer ska ha ett API`}
               />
               <div className="cta-one__text">
                 <p>
-                  Det finns många missuppfattningar om vad ett API är och hur det fungerar. Vi hjälper dig att räta ut frågetecknen.
+                  Om alla organisationer hade ett API hade vi kunnat se ett samhälle växa fram som vi bygger tillsammans och som blir mer värdeskapande för medborgare och företag och gör Sverige mer konkurrenskraftigt.
                 </p>
               </div>
               <ul className="list-unstyled cta-one__list">

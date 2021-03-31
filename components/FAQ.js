@@ -37,12 +37,12 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Vad kan samhället göra med ett API?"
-            content="Samhället kan spara enorma resurser genom att system kan kommunicera med varandra och automatiskt låta data flöda istället för att gå via människor. Ja det är en ren nödvändighet för att vi ska klara omställningen till en hållbar värld. Även om Sverige ligger sist på OECDS lista över digital mognad så finns det goda exempel i Sverige. Helsingborg kommun och Sundsvall kommun har valt att tillämpa öppna principer på sin utveckling. "APIer möjliggör maximering av medborgarnytta till minimal peng" https://utveckling.sundsvall.se/it-strategi/api-strategi/ Taiwan är en föregångare i världen med en progressiv digitaliseringsminister, som också är aktiv i  civic tech communityn https://g0v.asia/. Bli inspirerad av vad ett samhälle som bygger på öppna APIer kan skapa tillsammans här https://www.youtube.com/watch?v=nB-5GLcMs20
+            content="Samhället kan spara enorma resurser genom att system kan kommunicera med varandra och automatiskt låta data flöda istället för att gå via människor. Ja det är en ren nödvändighet för att vi ska klara omställningen till en hållbar värld. Även om Sverige ligger sist på OECDS lista över digital mognad så finns det goda exempel i Sverige. Helsingborg kommun och Sundsvall kommun har valt att tillämpa öppna principer på sin utveckling. APIer möjliggör maximering av medborgarnytta till minimal peng https://utveckling.sundsvall.se/it-strategi/api-strategi/ Taiwan är en föregångare i världen med en progressiv digitaliseringsminister, som också är aktiv i  civic tech communityn https://g0v.asia/. Bli inspirerad av vad ett samhälle som bygger på öppna APIer kan skapa tillsammans här https://www.youtube.com/watch?v=nB-5GLcMs20"
             status={false}
           />
           <AccordionItem
             title="Är det inte jättefarligt med ett API som en öppen dörr till en massa känslig data (man har ju hört om GDPR)?"
-            content="Att du inte har ett API betyder inte att dina data automatiskt är säkra. API first innebär att du redan från början tänker igenom vem som ska ha tillgång till dina data, hur det ska ske, och hur du ska skydda data från otillåten åtkomst.<br>Skatteverket har löst det bra. https://www.skatteverket.se/apierochoppnadata"
+            content="Att du inte har ett API betyder inte att dina data automatiskt är säkra. API first innebär att du redan från början tänker igenom vem som ska ha tillgång till dina data, hur det ska ske, och hur du ska skydda data från otillåten åtkomst. Skatteverket har löst det bra. https://www.skatteverket.se/apierochoppnadata"
             status={false}
           />
           <AccordionItem

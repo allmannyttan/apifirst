@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import BlockTitle from "./BlockTitle";
 
 import CountUp from "react-countup";
 import VisibilitySensor from "react-visibility-sensor";
@@ -15,6 +16,11 @@ const FunFact = () => {
   };
   return (
     <section className="funfact-one">
+    <BlockTitle
+    textAlign="center"
+    titleText={`Utan API`}
+  />
+
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-6">

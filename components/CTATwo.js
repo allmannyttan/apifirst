@@ -14,32 +14,13 @@ const CTATwo = () => {
             <div className="cta-two__content">
               <BlockTitle
                 textAlign="left"
-                paraText="Feature List"
-                titleText={`Appton Providing You \n Best Features`}
+                paraText="Fråga"
+                titleText={`Vad är ett API?`}
               />
-              <div className="cta-two__icon-wrap">
-                <div className="cta-two__icon-single">
-                  <div className="cta-two__icon">
-                    <i className="apton-icon-app-development"></i>
-                  </div>
-                  <h3>
-                    Responsive <br /> Design
-                  </h3>
-                </div>
-                <div className="cta-two__icon-single">
-                  <div className="cta-two__icon">
-                    <i className="apton-icon-computer-graphic1"></i>
-                  </div>
-                  <h3>
-                    Online <br /> Marketing
-                  </h3>
-                </div>
-              </div>
+              
               <div className="cta-two__text">
                 <p>
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Lorem Ipsum is simply
-                  dummy text of the printing laborum perspiciatis unde.
+                Ett API är en dokumenterad och säker koppling till ett system. Ett öppet API erbjuder din organisations funktioner, tjänster och data på ett sätt som gör att det kan kopplas samman med andra system, plattformar och organisationer.
                 </p>
               </div>
               <a href="#" className="thm-btn cta-two__btn">
@@ -51,12 +32,6 @@ const CTATwo = () => {
             <div className="cta-two__images d-flex justify-content-end align-items-end flex-column">
               <img
                 src={CTAImage1}
-                className="wow fadeInUp"
-                data-wow-duration="1500ms"
-                alt=""
-              />
-              <img
-                src={CTAImage2}
                 className="wow fadeInUp"
                 data-wow-duration="1500ms"
                 alt=""

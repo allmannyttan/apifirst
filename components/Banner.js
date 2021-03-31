@@ -38,11 +38,13 @@ const Banner = () => {
               
               <div className="mc-form__response"></div>
               <h3>
-                Vi vill införa<br /> anti-API <br /> avgift
+                Vi vill byta namn på första april
               </h3>
               <p>
-                Det är sjukt dyrt att inte bygga API först. Vi vill införa avgifter för alla organisationer som inte har ett öppet API. 
-                Samhället kan bli så mycket bättre och utvecklas av fler. Skriv under vårt upprop nu.
+                Vi tycker att varje dag är ett aprilskämt. Varje gång vi hör om ett miljardprojekt så tänker vi att det finns ett bättre sätt. Att börja med API. Jobba nära användarna och samarbeta i ett system. 
+                
+                Därför vill vi byta namn på första april till API First day.
+
               </p>
               <div
                 className="banner-one__mc-form mc-form"

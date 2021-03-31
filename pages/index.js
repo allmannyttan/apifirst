@@ -8,9 +8,9 @@ import Footer from "../components/Footer";
 // import CTAThree from "../components/CTAThree";
 // import Contact from "../components/Contact";
 import Services from "../components/Services";
-// import CTAOne from "../components/CTAOne";
+import CTAOne from "../components/CTAOne";
 import FunFact from "../components/FunFact";
-// import CTATwo from "../components/CTATwo";
+import CTATwo from "../components/CTATwo";
 // import Team from "../components/Team";
 import Pricing from "../components/Pricing";
 // import VideoOne from "../components/VideoOne";
@@ -31,9 +31,10 @@ const HomePage = () => {
           extraClassName="site-header-one__fixed-top"
         />
         <Banner />
+        <CTAOne /> 
         <Services />
         <FunFact />
-        {/* <CTATwo /> */}
+        <CTATwo /> 
         <Pricing />
         {/* <Testimonials />
         <Clients />
