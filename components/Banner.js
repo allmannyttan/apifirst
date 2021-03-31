@@ -46,20 +46,6 @@ const Banner = () => {
                 Därför vill vi byta namn på första april till API 1ST day.
 
               </p>
-              <div
-                className="banner-one__mc-form mc-form"
-                // data-url="MAILCHIMP__POPUP__FORM__URL"
-              >
-                
-                <input type="text" name="email" placeholder="Din email" />
-                
-                <button className="thm-btn banner-one__mc-btn">
-                <a href="https://tinyurl.com/eudd6bmr" >
-                  <span>Anslut dig</span>
-                  </a>
-                </button>
-                
-              </div>
             </div>
           </div>
         </div>
