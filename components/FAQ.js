@@ -17,7 +17,7 @@ const FAQ = (props) => {
         <div className="accrodion-grp faq-accrodion">
           <AccordionItem
             title="Måste jag intressera mig för API?"
-            content="Bara om du bryr dig om digitalisering."
+            content="Bara om det saknas väl fungerande API. Och bryr dig om digitalisering."
             status={true}
           />
           <AccordionItem
@@ -27,7 +27,7 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Vad kan jag göra med ett API?"
-            content="Om dina system har API:er kan du sätta ihop dem till en digital plattform. Om din digitala plattform har ett API kan du erbjuda dina tjänster digitalt. Med andras API:er kan du bygga ditt eget gränssnitt till andras tjänster, eller integrera dem med din plattform."
+            content="När det finns API:er i bakgrunden så kan du räkna med att du slipper att logga in till höger och vänster för att lösa en uppgift, till exempel få all den information du behöver. Varje gång du använder en app som Facebook, kollar vädret eller en karta på din smartphone så nyttjas ett API för att skapa en helhet för dig som användare.<br> Om dina system har API:er kan du sätta ihop dem till en digital plattform. Om din digitala plattform har ett API kan du erbjuda dina tjänster digitalt. Med andras API:er kan du bygga ditt eget gränssnitt till andras tjänster, eller integrera dem med din plattform."
             status={false}
           />
           <AccordionItem
@@ -37,12 +37,12 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Vad kan samhället göra med ett API?"
-            content="Samhället kan spara enorma resurser genom att system kan kommunicera med varandra och automatiskt låta data flöda istället för att gå via människor."
+            content="Samhället kan spara enorma resurser genom att system kan kommunicera med varandra och automatiskt låta data flöda istället för att gå via människor. Ja det är en ren nödvändighet för att vi ska klara omställningen till en hållbar värld. Även om Sverige ligger sist på OECDS lista över digital mognad så finns det goda exempel i Sverige. Helsingborg kommun och Sundsvall kommun har valt att tillämpa öppna principer på sin utveckling. "APIer möjliggör maximering av medborgarnytta till minimal peng" https://utveckling.sundsvall.se/it-strategi/api-strategi/ Taiwan är en föregångare i världen med en progressiv digitaliseringsminister, som också är aktiv i  civic tech communityn https://g0v.asia/. Bli inspirerad av vad ett samhälle som bygger på öppna APIer kan skapa tillsammans här https://www.youtube.com/watch?v=nB-5GLcMs20
             status={false}
           />
           <AccordionItem
             title="Är det inte jättefarligt med ett API som en öppen dörr till en massa känslig data (man har ju hört om GDPR)?"
-            content="Att du inte har ett API betyder inte att dina data automatiskt är säkra. API first innebär att du redan från början tänker igenom vem som ska ha tillgång till dina data, hur det ska ske, och hur du ska skydda data från otillåten åtkomst."
+            content="Att du inte har ett API betyder inte att dina data automatiskt är säkra. API first innebär att du redan från början tänker igenom vem som ska ha tillgång till dina data, hur det ska ske, och hur du ska skydda data från otillåten åtkomst.<br>Skatteverket har löst det bra. https://www.skatteverket.se/apierochoppnadata"
             status={false}
           />
           <AccordionItem
@@ -62,7 +62,7 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Om jag ska köpa ett API, eller jag menar ett system eller nej ett API först, hur kravställer jag ett API?"
-            content="Om du köper ett system kan du be om dokumentation av dess API. Ska du bygga ett nytt system ska du fundera över vad två alternativa gränssnitt har gemensamt. Ska du bygga en digital plattform ska du fundera över vilka affärsprocesser du vill utföra digitalt."
+            content="Börja med att fråga finns det inte ett API som löser det här? #api1st Har du tur så kan den del av utvecklingen som du ansvarar för bli mycket mindre eftersom du kan bygga vidare på tillgänglig information och funktionalitet som andra redan har utvecklat och tillgängliggjort via öppet API. Ska du beställa något så börja med att definiera ditt API. Hur ska din verksamhet kommunicera med omvärlden? Finns det data eller funktionalitet som du kan, vill, bör tillgängliggöra? m du köper ett system kan du be om dokumentation av dess API. Ska du bygga ett nytt system ska du fundera över vad två alternativa gränssnitt har gemensamt. Ska du bygga en digital plattform ska du fundera över vilka affärsprocesser du vill utföra digitalt."
             status={false}
           />
         </div>
