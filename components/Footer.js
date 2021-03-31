@@ -26,62 +26,16 @@ const Footer = () => {
                   </a>
                 </div>
               </div>
-
-              {/* <div className="col-lg-5">
-                <div className="footer-widget__links-wrap">
-                  <div className="footer-widget">
-                    <h3 className="footer-widget__title">Company</h3>
-                    <ul className="list-unstyled footer-widget__links-list">
-                      <li>
-                        <a href="#">About</a>
-                      </li>
-                      <li>
-                        <a href="#">Our Team</a>
-                      </li>
-                      <li>
-                        <a href="#">Contact</a>
-                      </li>
-                      <li>
-                        <a href="#">Services</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="footer-widget">
-                    <h3 className="footer-widget__title">Explore</h3>
-                    <ul className="list-unstyled footer-widget__links-list">
-                      <li>
-                        <a href="#">News</a>
-                      </li>
-                      <li>
-                        <a href="#">Features</a>
-                      </li>
-                      <li>
-                        <a href="#">Download</a>
-                      </li>
-                      <li>
-                        <a href="#">Free Trial</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="footer-widget">
-                    <h3 className="footer-widget__title">Links</h3>
-                    <ul className="list-unstyled footer-widget__links-list">
-                      <li>
-                        <a href="#">Help</a>
-                      </li>
-                      <li>
-                        <a href="#">Privacy Policy</a>
-                      </li>
-                      <li>
-                        <a href="#">Terms of Use</a>
-                      </li>
-                      <li>
-                        <a href="#">Services</a>
-                      </li>
-                    </ul>
+              <div className="col-lg-12 d-flex align-items-center justify-content-md-center justify-content-sm-center">
+                <div className="footer-widget">
+                  <div className="footer-widget__social">
+                    Vill du vara med här? Gör en pull request:&nbsp;
+                    <a href="https://github.com/allmannyttan/apifirst">
+                      <i className="fab fa-github"></i>
+                    </a>
                   </div>
                 </div>
-              </div> */}
+              </div>
             </div>
           </div>
         </div>

@@ -1153,7 +1153,7 @@ a:visited {
   margin-bottom: 40px;
 }
 
-.site-footer__upper .footer-widget a {
+.site-footer__upper .footer-widget__about a {
   padding-left: 50px;
   padding-right: 50px;
 }
