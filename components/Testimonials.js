@@ -7,10 +7,6 @@ import BlockTitle from "./BlockTitle";
 
 import TestiQoute from "../assets/images/resources/siri.png";
 
-import TestiImageOne from "../assets/images/resources/testi-1-1.jpg";
-import TestiImageTwo from "../assets/images/resources/testi-1-2.jpg";
-import TestiImageThree from "../assets/images/resources/testi-1-3.jpg";
-
 const Testimonials = (props) => {
   const paramsTwo = {
     observer: true,
@@ -56,17 +52,14 @@ const Testimonials = (props) => {
                 <Swiper {...paramsOne}>
                   <div className="swiper-slide">
                     <div className="testimonials-one__image">
-                      <img src={TestiImageOne} alt="Awesome Image" />
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="testimonials-one__image">
-                      <img src={TestiImageTwo} alt="Awesome Image" />
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="testimonials-one__image">
-                      <img src={TestiImageThree} alt="Awesome Image" />
                     </div>
                   </div>
                 </Swiper>
