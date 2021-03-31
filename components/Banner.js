@@ -41,7 +41,7 @@ const Banner = () => {
                 Vi vill byta namn på första april
               </h3>
               <p>
-                Vi tycker att varje dag är ett aprilskämt. Varje gång vi hör om ett miljardprojekt så tänker vi att det finns ett bättre sätt. Att börja med API. Jobba nära användarna och samarbeta i ett system. 
+                Vi tycker att varje dag är ett aprilskämt. Varje gång vi hör om ett miljardprojekt så tänker vi att det finns ett bättre sätt. Att börja med API. Jobba nära användarna och samarbeta i ett öppet system. 
                 
                 Därför vill vi byta namn på första april till API 1ST day.
 
