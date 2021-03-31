@@ -15,13 +15,13 @@ const Footer = () => {
             <div className="row">
               <div className="col-lg-12">
                 <div className="footer-widget footer-widget__about">
-                  <a href="/">
+                  <a href="https://www.linkedin.com/company/allm%C3%A4nnyttans-digitaliseringsinitiativ/">
                     <img src={AllmannyttanLogo} width="180" alt="" />
                   </a>
-                  <a href="/">
+                  <a href="https://www.linkedin.com/company/iteam1337/">
                     <img src={IteamLogo} width="180" alt="" />
                   </a>
-                  <a href="/">
+                  <a href="https://www.linkedin.com/company/nikolaidev/">
                     <img src={NikolaiLogo} width="180" alt="" />
                   </a>
                 </div>
@@ -82,32 +82,6 @@ const Footer = () => {
                   </div>
                 </div>
               </div> */}
-            </div>
-          </div>
-        </div>
-        <div className="site-footer__bottom">
-          <div className="col-lg-12 d-flex align-items-center justify-content-md-center justify-content-sm-center">
-            <div className="footer-widget">
-              <div className="footer-widget__social">
-                {/* <a href="">
-                  <i className="fab fa-youtube"></i>
-                </a>
-                <a href="">
-                  <i className="fab fa-twitter"></i>
-                </a> */}
-                {/* <a href="#">
-                  <i className="fab fa-my"></i>
-                </a> */}
-                <a href="https://www.linkedin.com/company/allm%C3%A4nnyttans-digitaliseringsinitiativ/">
-                  <i className="fab fa-linkedin"></i>
-                </a>
-                <a href="https://www.linkedin.com/company/iteam1337/">
-                  <i className="fab fa-linkedin"></i>
-                </a>
-                <a href="https://www.linkedin.com/company/nikolaidev/">
-                  <i className="fab fa-linkedin"></i>
-                </a>
-              </div>
             </div>
           </div>
         </div>
