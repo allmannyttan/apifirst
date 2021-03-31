@@ -23,37 +23,24 @@ const CTAOne = () => {
               />
               <div className="cta-one__text">
                 <p>
-                
-                The mask app, she argues, is a technical project playing to the strength of Taiwan’s evolving societal norms. 
-                The government trusted the people not to abuse access to NHI data, and the people responded to that trust by 
-                creating a multitude of applications that went far beyond Howard Wu’s initial experiment, doing things such as
-                adding inclusivity-expanding features like audio assistance for the visually impaired. 
-                If that kind of participatory mechanism design eventually becomes the norm,” Tang says, 
-                “then you will see a sea change, and people will start to think about how to collaborate with 
-                different people, rather than to cast them as others. making civic technology practices work, 
-                you need a critical mass of citizens who are willing and able to participate.
+                Vi tycker att digitaliseringen har varit för centraliserad. Att enskilda organisationer ska lösa alltför stort problem med dyra system.
 
-https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic
-
-                  Om alla organisationer hade ett API hade vi kunnat se ett samhälle växa fram som vi bygger tillsammans och som blir mer värdeskapande för medborgare och företag och gör Sverige mer konkurrenskraftigt.
+                Släpp loss din information och dina tjänster och göra dessa tillgängliga via API 
+                kan du boosta digitaliseringen.
                 </p>
               </div>
               <ul className="list-unstyled cta-one__list">
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Bygga samhället tillsammans
+                  Lita på dina konkurrenter
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Släppa lös innovationskraften
+                  Hacka din affärsidé
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Mycket
-                </li>
-                <li>
-                  <i className="fa fa-check-circle"></i>
-                  Bättre digitala tjänster
+                  Få superkrafter
                 </li>
               </ul>
             </div>
