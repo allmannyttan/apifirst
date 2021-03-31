@@ -23,7 +23,7 @@ const CTAOne = () => {
               />
               <div className="cta-one__text">
                 <p>
-                Vi tycker att digitaliseringen har varit för centraliserad. Att enskilda organisationer ska lösa alltför stort problem med dyra system.
+                Vi tycker att digitaliseringen har varit för långsam. Att enskilda organisationer ska lösa alltför stort problem med dyra system.
 
                 Släpp loss din information och dina tjänster och göra dessa tillgängliga via API 
                 kan du boosta digitaliseringen.
