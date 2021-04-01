@@ -3,7 +3,7 @@ import React, { useContext } from "react";
 import AllmannyttanLogo from "../assets/images/resources/sveriges-allmannytta.jpg";
 import NikolaiLogo from "../assets/images/resources/nikolai.png";
 import IteamLogo from "../assets/images/resources/iteam.png";
-
+import ProxifyLogo from "../assets/images/resources/proxify.png";
 const Footer = () => {
   return (
     <div>
@@ -24,9 +24,14 @@ const Footer = () => {
                   <a href="https://www.linkedin.com/company/nikolaidev/">
                     <img src={NikolaiLogo} width="180" alt="" />
                   </a>
-{// add your logo here: }
+                  <a href="https://proxify.io/">
+                    <img src={ProxifyLogo} width="180" alt="" />
+                  </a>
 
 
+{
+// add your logo here: 
+}
                 </div>
               </div>
               <div className="col-lg-12 d-flex align-items-center justify-content-md-center justify-content-sm-center">
