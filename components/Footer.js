@@ -24,7 +24,7 @@ const Footer = () => {
                   <a href="https://www.linkedin.com/company/nikolaidev/">
                     <img src={NikolaiLogo} width="180" alt="" />
     <a href="https://www.linkedin.com/company/lennox-public-relations/">
-                    <img src={https://images.squarespace-cdn.com/content/v1/5f12fde1f67d8f0ee71c496d/1616406911096-UF297OQVRGY7A9T15IOW/ke17ZwdGBToddI8pDm48kI_tQScU0yp6ViEoQ_S7xc17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua4pajMFhX3Rz7xjXCazl056suAr1I5mPtKc-JWB0C8oZ4SODUbdTU85jG6Jwp5K1Q/Lenno_logo_ruta_pr_pink.jpg?format=1500w} width="180" alt="" />
+                    <img src="https://images.squarespace-cdn.com/content/v1/5f12fde1f67d8f0ee71c496d/1616406911096-UF297OQVRGY7A9T15IOW/ke17ZwdGBToddI8pDm48kI_tQScU0yp6ViEoQ_S7xc17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua4pajMFhX3Rz7xjXCazl056suAr1I5mPtKc-JWB0C8oZ4SODUbdTU85jG6Jwp5K1Q/Lenno_logo_ruta_pr_pink.jpg?format=1500w" width="180" alt="" />
                   </a>
                 </div>
               </div>
