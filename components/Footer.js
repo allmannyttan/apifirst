@@ -24,6 +24,9 @@ const Footer = () => {
                   <a href="https://www.linkedin.com/company/nikolaidev/">
                     <img src={NikolaiLogo} width="180" alt="" />
                   </a>
+{// add your logo here: }
+
+
                 </div>
               </div>
               <div className="col-lg-12 d-flex align-items-center justify-content-md-center justify-content-sm-center">
