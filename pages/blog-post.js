@@ -1,7 +1,7 @@
 import { Container } from "react-bootstrap";
 import { Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
-import Preloader from "../components/Preloader";
+// import Preloader from "../components/Preloader";
 import Layout from "../components/Layout";
 import Header from "../components/Header";
 import MobileMenu from "../components/MobileMenu";
@@ -14,7 +14,7 @@ import MenuContextProvider from "../context/MenuContext";
 const BlogPostPage = () => (
   <MenuContextProvider>
     <Layout pageTitle="API 1ST">
-      <Preloader />
+      {/* <Preloader /> */}
       <Header btnClass="main-nav__btn-two" />
       <MobileMenu />
       <PageHeader pageHeading="Blog Post Page" />

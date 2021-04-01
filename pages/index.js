@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import Layout from "../components/Layout";
-import Preloader from "../components/Preloader";
+// import Preloader from "../components/Preloader";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import Footer from "../components/Footer";
@@ -24,7 +24,7 @@ import Testimonials from "../components/Testimonials";
 const HomePage = () => {
   return (
     <MenuContextProvider>
-      <Preloader />
+      {/* <Preloader /> */}
 
       <Layout pageTitle="API 1ST">
         <Header
