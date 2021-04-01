@@ -39,11 +39,11 @@ const MobileMenu = () => {
         <div className="side-menu__sep"></div>
         <div className="side-menu__content">
          
-            </a>
+       
           </div>
         </div>
       </div>
-    </div>
+
   );
 };
 
