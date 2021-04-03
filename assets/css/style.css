@@ -3757,41 +3757,18 @@ a:visited {
 }
 
 .testimonials-one__icon {
-  position: absolute;
-  top: 50%;
-  left: 0;
   z-index: 10;
-  -webkit-transform: translateY(-50%) translateX(-50%);
-  transform: translateY(-50%) translateX(-50%);
   display: -webkit-box;
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
-  border-radius: 50%;
-  width: 192px;
-  height: 192px;
   border: 27px solid #f6f6fb;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(var(--thm-base)),
-    to(var(--thm-primary))
-  );
-  background-image: linear-gradient(
-    90deg,
-    var(--thm-base) 0%,
-    var(--thm-primary) 100%
-  );
 }
 
 @media (max-width: 1350px) {
   .testimonials-one__icon {
-    left: 50%;
-    -webkit-transform: translateY(-50%) translateX(50%);
-    transform: translateY(-50%) translateX(50%);
   }
 }
 
