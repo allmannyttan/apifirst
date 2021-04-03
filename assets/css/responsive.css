@@ -27,11 +27,6 @@
   .footer-widget__links-wrap {
     margin-left: 0;
   }
-  .testimonials-one__icon {
-    left: 50%;
-    -webkit-transform: translateY(-50%) translateX(-50%);
-    transform: translateY(-50%) translateX(-50%);
-  }
   .testimonials-one__image {
     margin-bottom: 50px;
     display: inline-block;
