@@ -4,6 +4,7 @@ import AllmannyttanLogo from "../assets/images/resources/sveriges-allmannytta.jp
 import NikolaiLogo from "../assets/images/resources/nikolai.png";
 import IteamLogo from "../assets/images/resources/iteam.png";
 import ProxifyLogo from "../assets/images/resources/proxify.png";
+import ElksLogo from "../assets/images/resources/46elks.png";
 const Footer = () => {
   return (
     <div>
@@ -29,6 +30,9 @@ const Footer = () => {
                   </a>
                   <a href="https://proxify.io/">
                     <img src={ProxifyLogo} width="180" alt="" />
+                  </a>
+                  <a href="https://46elks.se/">
+                    <img src={ElksLogo} width="180" alt="" />
                   </a>
     
                   {
