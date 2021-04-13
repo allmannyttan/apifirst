@@ -4,6 +4,8 @@ import AllmannyttanLogo from "../assets/images/resources/sveriges-allmannytta.jp
 import NikolaiLogo from "../assets/images/resources/nikolai.png";
 import IteamLogo from "../assets/images/resources/iteam.png";
 import ProxifyLogo from "../assets/images/resources/proxify.png";
+import HomepalLogo from "../assets/images/resources/homepal.svg";
+
 const Footer = () => {
   return (
     <div>
@@ -30,11 +32,14 @@ const Footer = () => {
                   <a href="https://proxify.io/">
                     <img src={ProxifyLogo} width="180" alt="" />
                   </a>
-    
+                  <a href="https://homepal.se/">
+                    <img src={HomepalLogo} width="180" alt="" />
+                  </a>
+
                   {
-                  // add your logo here: 
+                  // add your logo here:
                   }
-    
+
                 </div>
               </div>
               <div className="col-lg-12 d-flex align-items-center justify-content-md-center justify-content-sm-center">
