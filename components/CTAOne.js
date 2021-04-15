@@ -25,7 +25,7 @@ const CTAOne = () => {
                 <p>
                 Vi tycker att digitaliseringen har varit för långsam. Att enskilda organisationer ska lösa alltför stort problem med dyra system.
 
-                Släpp loss din information och dina tjänster och göra dessa tillgängliga via API 
+                Släpp loss din information och dina tjänster och gör dessa tillgängliga via API 
                 så boostar du digitaliseringen.
                 </p>
               </div>
