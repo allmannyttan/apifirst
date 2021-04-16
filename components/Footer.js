@@ -41,7 +41,7 @@ const Footer = () => {
                   </a>
 
                   {
-                  // add your logo here:
+                  // add your logo here, thnx:
                   }
 
                 </div>
