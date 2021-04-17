@@ -6,6 +6,7 @@ import IteamLogo from "../assets/images/resources/iteam.png";
 import ProxifyLogo from "../assets/images/resources/proxify.png";
 import ElksLogo from "../assets/images/resources/46elks.png";
 import HomepalLogo from "../assets/images/resources/homepal.svg";
+import SkilledLogo from "../assets/images/resources/skilled.png";
 
 const Footer = () => {
   return (
@@ -38,6 +39,9 @@ const Footer = () => {
                   </a>
                   <a href="https://homepal.se/">
                     <img src={HomepalLogo} width="180" alt="" />
+                  </a>
+                  <a href="https://skilledpeople.se/">
+                    <img src={SkilledLogo} width="180" alt="SkilledPeople Logo" />
                   </a>
 
                   {
