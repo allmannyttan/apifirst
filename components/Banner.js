@@ -41,8 +41,8 @@ const Banner = () => {
                Sweden API Award 
               </h3>
               <p>
-                API 1st instiftar Sweden API Award 2021 för att uppmärksamma utmärkta API:er. Sveriges bästa API ska vara till nytta för mänskligheten, lättanvänt, säkert, byggd med integritet och på öppen teknik.                
-                Nomineringen öppnar 5 oktober 13:00 på Innovationsveckan. <a href="https://sv-se.invajo.com/events/welcome/id/81bf2a70-1526-11ec-9432-fd7faa4ab2ab">Allt du vill veta och anmälan här!</a>
+               API 1st instiftar Sweden API Award 2021 för att uppmärksamma utmärkta API:er. Sveriges bästa API ska vara till nytta för mänskligheten, lättanvänt, säkert, byggd med integritet och på öppen teknik.                
+               Vi möter de fem finalisterna och utser vinnaren på Internetdagaran 22/11. <a href="https://sv-se.invajo.com/events/welcome/id/81bf2a70-1526-11ec-9432-fd7faa4ab2ab">Allt du vill veta finns här!</a>
 
               </p>
             </div>
