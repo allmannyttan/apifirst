@@ -7,6 +7,7 @@ import ProxifyLogo from "../assets/images/resources/proxify.png";
 import ElksLogo from "../assets/images/resources/46elks.png";
 import HomepalLogo from "../assets/images/resources/homepal.svg";
 import SkilledLogo from "../assets/images/resources/skilled.png";
+import AlingsaskommunLogo from "../assets/images/resources/alingsaskommun.svg";
 
 const Footer = () => {
   return (
