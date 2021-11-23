@@ -44,7 +44,9 @@ const Footer = () => {
                   <a href="https://skilledpeople.se/">
                     <img src={SkilledLogo} width="180" alt="SkilledPeople Logo" />
                   </a>
-
+                    <a href="https://alingsaskommun.se/">
+                    <img src={alingsaskommunLogo} width="180" alt="ALingsåskommun Logo" />
+                  </a>
                   {
                   // add your logo here, thnx:
                   }
