@@ -42,7 +42,7 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Är det inte jättefarligt med ett API som en öppen dörr till en massa känslig data (man har ju hört om GDPR)?"
-            content="Att du inte har ett API betyder inte att dina data automatiskt är säkra. API first innebär att du redan från början tänker igenom vem som ska ha tillgång till dina data, hur det ska ske, och hur du ska skydda data från otillåten åtkomst. Skatteverket har löst det bra. https://www.skatteverket.se/apierochoppnadata"
+            content="Att du inte har ett API betyder inte att dina data automatiskt är säkra. API first innebär att du redan från början tänker igenom vem som ska ha tillgång till dina data, hur det ska ske, och hur du ska skydda data från otillåten åtkomst. Skatteverket har löst det bra. https://www.skatteverket.se/omoss/apierochoppnadata"
             status={false}
           />
           <AccordionItem
