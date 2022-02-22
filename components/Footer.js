@@ -8,6 +8,9 @@ import ElksLogo from "../assets/images/resources/46elks.png";
 import HomepalLogo from "../assets/images/resources/homepal.svg";
 import SkilledLogo from "../assets/images/resources/skilled.png";
 import AlingsaskommunLogo from "../assets/images/resources/alingsaskommun.svg";
+import SwedishJobtechLogo from "../assets/images/resources/swedishjobtech.png";
+import AssedonLogo from "../assets/images/resources/assedon.png";
+
 
 const Footer = () => {
   return (
@@ -46,6 +49,12 @@ const Footer = () => {
                   </a>
                     <a href="https://alingsaskommun.se/">
                     <img src={AlingsaskommunLogo} width="180" alt="Alingsåskommun Logo" />
+                  </a>
+                  <a href="https://www.swedishjobtech.se/">
+                    <img src={SwedishJobtechLogo} width="180" alt="SwedishJobtech Logo" />
+                  </a>
+                  <a href="https://www.assedon.se/">
+                    <img src={AssedonLogo} width="180" alt="Assedon Logo" />
                   </a>
                   {
                   // add your logo here, thnx:
