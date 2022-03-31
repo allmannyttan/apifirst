@@ -3216,6 +3216,28 @@ a:visited {
   margin-bottom: 53px;
 }
 
+.cta-award {
+  padding-bottom: 15px;
+}
+
+.cta-award .cta-award-pop {
+  color: white;
+}
+
+.cta-three-big-image {
+  display: block;
+  width: 100%;
+}
+
+.cta-award-big-image img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.cta-award-big-image caption {
+  width: 100%;
+}
+
 /*--------------------------------------------------------------
 # Funfact
 --------------------------------------------------------------*/
