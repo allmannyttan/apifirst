@@ -56,6 +56,9 @@ const Footer = () => {
                   <a href="https://www.assedon.se/">
                     <img src={AssedonLogo} width="180" alt="Assedon Logo" />
                   </a>
+                  <a href="https://www.roaring.io/en/">
+                    <img src="https://www.roaring.io/wp-content/uploads/2021/11/roaring-logo-green-1.svg" width="180" alt="" />
+                  </a>
                   {
                   // add your logo here, thnx:
                   }
