@@ -7,6 +7,7 @@ import Footer from "../components/Footer";
 // import BlogHome from "../components/BlogHome";
 // import CTAThree from "../components/CTAThree";
 // import Contact from "../components/Contact";
+import CTAAward from "../components/CTAAward";
 import Services from "../components/Services";
 import CTAOne from "../components/CTAOne";
 import FunFact from "../components/FunFact";
@@ -32,7 +33,8 @@ const HomePage = () => {
           extraClassName="site-header-one__fixed-top"
         />
         <Banner />
-        <CTAOne /> 
+        <CTAOne />
+        <CTAAward />
         <Services />
         <FunFact />
         <CTATwo /> 
