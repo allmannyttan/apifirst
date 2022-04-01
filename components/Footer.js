@@ -10,7 +10,7 @@ import SkilledLogo from "../assets/images/resources/skilled.png";
 import AlingsaskommunLogo from "../assets/images/resources/alingsaskommun.svg";
 import SwedishJobtechLogo from "../assets/images/resources/swedishjobtech.png";
 import AssedonLogo from "../assets/images/resources/assedon.png";
-
+import MetaSolutionsLogo from "../assets/images/resources/metasolutions.png";
 
 const Footer = () => {
   return (
@@ -55,6 +55,9 @@ const Footer = () => {
                   </a>
                   <a href="https://www.assedon.se/">
                     <img src={AssedonLogo} width="180" alt="Assedon Logo" />
+                  </a>
+                  <a href="https://www.metasolutions.se/">
+                    <img src={MetaSolutionsLogo} width="180" alt="MetaSolutions Logo" />
                   </a>
                   <a href="https://www.roaring.io/en/">
                     <img src="https://www.roaring.io/wp-content/uploads/2021/11/roaring-logo-green-1.svg" width="180" alt="" />
