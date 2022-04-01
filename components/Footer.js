@@ -10,7 +10,9 @@ import SkilledLogo from "../assets/images/resources/skilled.png";
 import AlingsaskommunLogo from "../assets/images/resources/alingsaskommun.svg";
 import SwedishJobtechLogo from "../assets/images/resources/swedishjobtech.png";
 import AssedonLogo from "../assets/images/resources/assedon.png";
-import Metasolutionslogo from "../assets/images/resources/metasolutions.png";
+import MetaSolutionsLogo from "../assets/images/resources/metasolutions.webp";
+import OpenKnowledgeSwedenLogo from "../assets/images/resources/openknowledgesweden.webp";
+import HandlingarLogo from "../assets/images/resources/handlingar.webp";
 
 
 const Footer = () => {
@@ -60,8 +62,14 @@ const Footer = () => {
                   <a href="https://www.roaring.io/en/">
                     <img src="https://www.roaring.io/wp-content/uploads/2021/11/roaring-logo-green-1.svg" width="180" alt="" />
                   </a>
-                  <a href="https://www.metasolutions.se">
-                    <img src={Metasolutionslogo} width="180" alt="MetaSolutions Logo" />
+                  <a href="https://www.metasolutions.se/">
+                    <img src={MetaSolutionsLogo} width="180" alt="MetaSolutions Logo" />
+                  </a>
+                  <a href="https://okfn.se/">
+                    <img src={OpenKnowledgeSwedenLogo} width="180" alt="OpenKnowledgeSweden Logo" />
+                  </a>
+                  <a href="https://handlingar.se/">
+                    <img src={HandlingarLogo} width="180" alt="Handlingar Logo" />
                   </a>
 
                   {
