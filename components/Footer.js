@@ -49,7 +49,7 @@ const Footer = () => {
                   <a href="https://skilledpeople.se/">
                     <img src={SkilledLogo} width="180" alt="SkilledPeople Logo" />
                   </a>
-                    <a href="https://alingsaskommun.se/">
+                    <a href="https://www.alingsas.se/">
                     <img src={AlingsaskommunLogo} width="180" alt="Alingsåskommun Logo" />
                   </a>
                   <a href="https://www.swedishjobtech.se/">
