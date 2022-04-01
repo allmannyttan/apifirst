@@ -41,7 +41,7 @@ const Banner = () => {
               API 1st dagen
               </h3>
               <p>
-               Varje dag känns som ett aprilskämt! Varje gång vi hör om stora dyra system som inte har tillgängliggjort verksamhetens information och kärnfunktioner via API så tänker vi pengar i sjön. Det finns ett bättre sätt. API först, jobba nära användarna och samarbeta i öppna system. Bättre och rent utav nödvändigt för att bygga ett hållbart samhälle som människor mår bra i. Vi vill inte se en till beställning som är ett skämt. Därför utropar vi 1 april till API 1st dagen. 
+               Varje dag känns som ett aprilskämt! Varje gång vi hör om stora dyra och stängda system så tänker vi pengar i sjön. Det finns ett bättre sätt. API först, jobba nära användarna och samarbeta i öppna system. Bättre och rent utav nödvändigt för att bygga ett hållbart samhälle som människor mår bra i. Vi vill inte se en till beställning som är ett skämt. Därför utropar vi 1 april till API 1st dagen. 
 
               </p>
             </div>
