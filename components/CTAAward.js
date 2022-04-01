@@ -19,7 +19,7 @@ const CTAThree = () => {
           <img src={MainImage} alt={imageCaption} />
           <figcaption>{imageCaption}</figcaption>
         </figure>
-        <p>API 1st har instiftat Sweden API Award för att uppmärksamma utmärkta API:er. <span className="cta-award-pop">En namnkunnig jury utsåg fem finalister och vinnaren på Internetdagarna 2021</span> i den första upplagan av utmärkelsen. Stort grattis till Arbetsförmedlingen som vann för APIet Jobstream.</p>
+        <p>API 1st har instiftat Sweden API Award för att uppmärksamma utmärkta API:er. En namnkunnig jury utsåg fem finalister och vinnaren på Internetdagarna 2021i den första upplagan av utmärkelsen.<span className="cta-award-pop"> Stort grattis till Arbetsförmedlingen som vann för APIet Jobstream.</span> </p>
         <p className="cta-award-pop">Allt du vill veta om Sweden API Award <a href="https://sv-se.invajo.com/events/welcome/id/81bf2a70-1526-11ec-9432-fd7faa4ab2ab">finns här!</a></p>
       </Container>
     </section>
