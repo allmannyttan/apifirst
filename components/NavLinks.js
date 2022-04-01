@@ -35,7 +35,7 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Pris
+          Vad kostar det?
         </ScrollLink>
       </li>
       <li>
