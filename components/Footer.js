@@ -14,6 +14,7 @@ import MetaSolutionsLogo from "../assets/images/resources/metasolutions.webp";
 import OpenKnowledgeSwedenLogo from "../assets/images/resources/openknowledgesweden.webp";
 import HandlingarLogo from "../assets/images/resources/handlingar.webp";
 
+
 const Footer = () => {
   return (
     <div>
@@ -70,6 +71,7 @@ const Footer = () => {
                   <a href="https://handlingar.se/">
                     <img src={HandlingarLogo} width="180" alt="Handlingar Logo" />
                   </a>
+
                   {
                   // add your logo here, thnx:
                   }
