@@ -13,6 +13,7 @@ import AssedonLogo from "../assets/images/resources/assedon.png";
 import MetaSolutionsLogo from "../assets/images/resources/metasolutions.webp";
 import OpenKnowledgeSwedenLogo from "../assets/images/resources/openknowledgesweden.webp";
 import HandlingarLogo from "../assets/images/resources/handlingar.webp";
+import GraviteeioLogo from "../assets/images/resources/graviteeio_logo.png"
 
 
 const Footer = () => {
@@ -70,6 +71,9 @@ const Footer = () => {
                   </a>
                   <a href="https://handlingar.se/">
                     <img src={HandlingarLogo} width="180" alt="Handlingar Logo" />
+                  </a>
+                  <a href="https://www.gravitee.io/">
+                    <img src={GraviteeioLogo} width="180" alt="Graviteeio Logo" />
                   </a>
 
                   {
