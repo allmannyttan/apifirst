@@ -14,7 +14,7 @@ import MetaSolutionsLogo from "../assets/images/resources/metasolutions.webp";
 import OpenKnowledgeSwedenLogo from "../assets/images/resources/openknowledgesweden.webp";
 import HandlingarLogo from "../assets/images/resources/handlingar.webp";
 import GraviteeioLogo from "../assets/images/resources/graviteeio_logo.png"
-
+import AmidoLogo from "../assets/images/resources/amido.png"
 
 const Footer = () => {
   return (
@@ -79,6 +79,10 @@ const Footer = () => {
                   {
                   // add your logo here, thnx:
                   }
+
+                  <a href="https://www.amido.se/">
+                    <img src={AmidoLogo} width="180" alt="Amido Logo" />
+                  </a>
 
                 </div>
               </div>
